@@ -1,0 +1,16 @@
+div.picture {
+  text-align: center;
+}
+div.heading {
+  text-align: center;
+}
+div.footer {
+  text-align: center;
+}
+body {
+  font-family: calibri, monospace;
+}
+
+.brown-background {
+  background-color: rgb(255, 202, 155);
+}
